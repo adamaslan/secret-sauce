@@ -119,3 +119,7 @@ A 60-second walkthrough using sample data, showing how NEAR AI, Intents and stak
 Video and narration copyright 2026 Adam Timur Aslan. This new video is not offered under the source code's MIT license. Existing license terms are unchanged.
 
 Forked from [Escobar-Luis/secret-sauce](https://github.com/Escobar-Luis/secret-sauce), which holds the original project history.
+
+![Data flow: browser, gate server on the owner's Mac, and NEAR AI Cloud](docs/media/1-private-ai-analyst-flow.png)
+
+![Concept scenes (sample data) and planned items for NEAR Protocol](docs/media/2-near-protocol-possibilities.png)
