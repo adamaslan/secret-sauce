@@ -109,3 +109,13 @@ Luis Escobar ([@Escobar-Luis](https://github.com/Escobar-Luis)), Bondan Herumurt
 ## License
 
 [MIT](LICENSE)
+
+## Cebollito graph walkthrough demo
+
+A 60-second walkthrough using sample data, showing how NEAR AI, Intents and staking-funded inference could fit a restaurant. Payments, staking and signing are not implemented in this demo.
+
+[Download the video](docs/media/1-cebollito-graph-walkthrough-demo.mp4)
+
+Video and narration copyright 2026 Adam Timur Aslan. This new video is not offered under the source code's MIT license. Existing license terms are unchanged.
+
+Forked from [Escobar-Luis/secret-sauce](https://github.com/Escobar-Luis/secret-sauce), which holds the original project history.
