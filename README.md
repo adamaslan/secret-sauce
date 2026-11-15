@@ -39,6 +39,20 @@ flowchart LR
    NEAR never touches the weights. It only calls the lab's tools.
 6. **Graduate (the plan).** Once the local model passes its exams, the owner runs it alone. NEAR becomes a monthly tutor: it writes new exams and lessons.
 
+## Cebollito graph walkthrough demo
+
+A 60-second walkthrough using sample data, showing how NEAR AI, Intents and staking-funded inference could fit a restaurant. Payments, staking and signing are not implemented in this demo.
+
+[Download the video](docs/media/1-cebollito-graph-walkthrough-demo.mp4)
+
+Video and narration copyright 2026 Adam Timur Aslan. This new video is not offered under the source code's MIT license. Existing license terms are unchanged.
+
+Forked from [Escobar-Luis/secret-sauce](https://github.com/Escobar-Luis/secret-sauce), which holds the original project history.
+
+![Data flow: browser, gate server on the owner's Mac, and NEAR AI Cloud](docs/media/1-private-ai-analyst-flow.png)
+
+![Concept scenes (sample data) and planned items for NEAR Protocol](docs/media/2-near-protocol-possibilities.png)
+
 ## What's sealed and what isn't
 
 | Part | Where it runs | Notes |
@@ -109,17 +123,3 @@ Luis Escobar ([@Escobar-Luis](https://github.com/Escobar-Luis)), Bondan Herumurt
 ## License
 
 [MIT](LICENSE)
-
-## Cebollito graph walkthrough demo
-
-A 60-second walkthrough using sample data, showing how NEAR AI, Intents and staking-funded inference could fit a restaurant. Payments, staking and signing are not implemented in this demo.
-
-[Download the video](docs/media/1-cebollito-graph-walkthrough-demo.mp4)
-
-Video and narration copyright 2026 Adam Timur Aslan. This new video is not offered under the source code's MIT license. Existing license terms are unchanged.
-
-Forked from [Escobar-Luis/secret-sauce](https://github.com/Escobar-Luis/secret-sauce), which holds the original project history.
-
-![Data flow: browser, gate server on the owner's Mac, and NEAR AI Cloud](docs/media/1-private-ai-analyst-flow.png)
-
-![Concept scenes (sample data) and planned items for NEAR Protocol](docs/media/2-near-protocol-possibilities.png)
